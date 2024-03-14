@@ -18,7 +18,11 @@ Al probar las hipótesis, se espera que:
 - Si se rechaza parcialmente, los datos indican que es falsa, pero no se puede rechazar por completo. Cuando se interpretan los resultados de una prueba de hipótesis, es importante tener en cuenta estas diferentes posibilidades.
 
 ## Conclusiones Generales del Análisis:
-...
+***Hipóteis 1:*** *ACEPTADA COMPLETAMENTE:* Ambas ciudades consumen música de modo distinto de acuerdo al día de la semana.
+
+***Hipóteis 2:*** *ACEPTADA PARCIALMENTE*: Solo se cumple la hipótesis para los viernes por la tarde, para los lunes por la mañana solo se cumple para ciertos generos específicos
+
+***Hipóteis 3:*** *RECHAZADA COMPLETAMENTE:* Ambas ciudades aman el pop.
 ___
 
 ### Descripción de los datos
