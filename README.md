@@ -1,10 +1,6 @@
 # Music_streaming
 En este proyecto se hará el análisis de datos reales de transmisión de música online y se probarán hipótesis relacionadas con las preferencias musicales de dos ciudades: Springfield y Shelbyville, con el fin de comparar el comportamiento de los usuarios y las usuarias de estas ciudades.
 
-## Conclusiones Generales del Análisis:
-...
-___
-
 ### Etapas del proyecto:
 Etapa 1: Se proporcionará una descripción general de los datos 
 Etapa 2: Se preprocesarán los datos para su limpieza.
@@ -20,6 +16,10 @@ Al probar las hipótesis, se espera que:
 - Si se acepta solo parcialmente, los resultados respaldan la declaración en cierta medida, pero no lo suficiente como para aceptarla por completo.
 - Si se rechaza por completo, significa que los resultados de la prueba no respaldan la declaración hecha sobre la población.
 - Si se rechaza parcialmente, los datos indican que es falsa, pero no se puede rechazar por completo. Cuando se interpretan los resultados de una prueba de hipótesis, es importante tener en cuenta estas diferentes posibilidades.
+
+## Conclusiones Generales del Análisis:
+...
+___
 
 ### Descripción de los datos
 - ***'userID'*** — identifica de forma exclusiva a cada usuario o usuaria.
